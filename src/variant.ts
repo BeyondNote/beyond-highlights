@@ -1,7 +1,7 @@
 import { PluginAPI } from "tailwindcss/types/config";
 
 const highlightsUrl =
-  "https://raw.githubusercontent.com/jln13x/tailwindcss-highlights/main/highlights";
+  "https://raw.githubusercontent.com/BeyondNote/beyond-highlights/main/highlights";
 
 export const variant = (p: PluginAPI) => {
   const { matchUtilities } = p;

@@ -9,7 +9,7 @@ export = plugin((p) => {
   const { addUtilities } = p;
 
   addUtilities({
-    ".highlight": {
+    ".beyond-highlight": {
       isolation: "isolate",
       position: "relative",
       ...defaultColors,

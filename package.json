@@ -1,8 +1,8 @@
 {
-  "name": "tailwindcss-highlights",
+  "name": "beyond-highlights",
   "version": "1.0.0",
   "description": "A tailwindcss plugin to add highlights to your text",
-  "repository": "https://github.com/jln13x/tailwindcss-highlights",
+  "repository": "https://github.com/BeyondNote/beyond-highlights",
   "keywords": [
     "plugin",
     "tailwind",
@@ -19,9 +19,9 @@
     "dist"
   ],
   "bugs": {
-    "url": "https://github.com/jln13x/tailwindcss-highlights/issues"
+    "url": "https://github.com/BeyondNote/beyond-highlights/issues"
   },
-  "homepage": "https://github.com/jln13x/tailwindcss-highlights#readme",
+  "homepage": "https://github.com/BeyondNote/beyond-highlights#readme",
   "scripts": {
     "build": "tsc",
     "publish": "npm run build && npm publish",
